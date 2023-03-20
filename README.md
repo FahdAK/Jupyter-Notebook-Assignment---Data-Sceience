@@ -1,2 +1,2 @@
 # Jupyter-Notebook-Assignment---Data-Sceience
-Part of the coursework
+Repo created as part of coursework
